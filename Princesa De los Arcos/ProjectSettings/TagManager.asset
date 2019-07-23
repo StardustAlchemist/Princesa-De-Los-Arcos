@@ -44,3 +44,6 @@ TagManager:
   - name: Jugador
     uniqueID: 2399380699
     locked: 0
+  - name: EntradaCastillo
+    uniqueID: 3208802645
+    locked: 0
